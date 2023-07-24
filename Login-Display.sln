@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login-Display", "Login-Display\Login-Display.csproj", "{CA975D6F-168B-496D-89E8-5B0B939FD657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newForm", "newForm\newForm.csproj", "{1F2F118A-8FA7-43DE-8A50-644706E8089F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA975D6F-168B-496D-89E8-5B0B939FD657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA975D6F-168B-496D-89E8-5B0B939FD657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA975D6F-168B-496D-89E8-5B0B939FD657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA975D6F-168B-496D-89E8-5B0B939FD657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2F118A-8FA7-43DE-8A50-644706E8089F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2F118A-8FA7-43DE-8A50-644706E8089F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2F118A-8FA7-43DE-8A50-644706E8089F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2F118A-8FA7-43DE-8A50-644706E8089F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D6BF75-009B-418A-BD44-3436C4241C49}
+	EndGlobalSection
+EndGlobal
